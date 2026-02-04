@@ -1,0 +1,12 @@
+Target URL:
+hxxp://www.info-resmi888.blogspot[.]com/login
+
+Initial Observations:
+- Hosted on free blogging platform (Blogspot)
+- Login page used for credential harvesting
+- Randomized subdomain name
+
+Analysis Summary:
+- Parent domain is legitimate (Google)
+- Malicious activity originates from user-created subdomain
+- Hosting infrastructure shared, attacker attribution not possible
